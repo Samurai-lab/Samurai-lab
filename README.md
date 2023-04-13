@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE1YTA4YjNlOGNlZDk0MDk5NDg4ODNiM2UwYjMzZTExZmEwYTVhYyZjdD1z/Qo2dupDib32rkTY4hX/giphy.gif" width="350"/>
 </div>
 
-### My name is Egor 👋🏽
+### My name is Egor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm a self-taught passionate BackEnd developer 🍀🌒
 #
