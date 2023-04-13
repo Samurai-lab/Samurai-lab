@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE1YTA4YjNlOGNlZDk0MDk5NDg4ODNiM2UwYjMzZTExZmEwYTVhYyZjdD1z/Qo2dupDib32rkTY4hX/giphy.gif" width="350"/>
+</div>
+
+### My name is Egor 👋🏽
+
+I'm a self-taught passionate BackEnd developer 🍀🌒
 #
 
 ### 🧰 Languages and Tools
@@ -16,12 +22,24 @@
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<br/>
 
+#
+
+### About me
+
+I'm a software engineer! <br/>
+I can make the app work... <br/>
+...or just create an application ʕ ᵔᴥᵔ ʔ
+
+- 📬 have any work? do reach, [email](mailto:brazkhin.e92@gmail.com) :)
+- 📯 can ask me about anything, i will be glad to help you;
 #
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-👨🏽‍💻 my github stats
+### 👨🏽‍💻 my stats
+![Samurai's GitHub stats](https://github-readme-stats.vercel.app/api?username=samurai-lab&show_icons=true&theme=solarized-light)
+#
