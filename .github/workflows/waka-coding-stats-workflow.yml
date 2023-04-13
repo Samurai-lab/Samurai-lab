@@ -5,6 +5,25 @@ on:
     # Runs at 12am IST
     - cron: '0 0 * * *'
   workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+      tags:
+        description: 'Test scenario tags'
+        required: false
+        type: boolean
+      environment:
+        description: 'Environment to run tests against'
+        type: environment
+        required: true
+  
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -14,3 +33,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
