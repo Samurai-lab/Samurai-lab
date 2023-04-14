@@ -9,7 +9,6 @@ I'm a self-taught passionate BackEnd developer 🍀🌒
 Also i'm a software engineer!  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/> 
 I can make the app work... <br/>
 ...or just create an application ʕ ᵔᴥᵔ ʔ
-
 #
 
 ### 🧰 Languages and Tools
@@ -30,16 +29,13 @@ I can make the app work... <br/>
 <br/>
 
 #
-
 ### About me
-
 - 📬 have any work? do reach, [email](mailto:brazkhin.e92@gmail.com) :)
 - 📯 can ask me about anything, i will be glad to help you;
 #
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 ### </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZmZjljNWFjNmUzN2ViYjczYmEzNWJjZjQ1NWJmODczZDRiNThhZCZjdD1z/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> my stats
-![Samurai's GitHub stats](https://github-readme-stats.vercel.app/api?username=samurai-lab&show_icons=true&theme=solarized-light)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=samurai-lab&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurai-lab&layout=compact&theme=vue-dark&hide_border=true" /></a> |
+
 #
