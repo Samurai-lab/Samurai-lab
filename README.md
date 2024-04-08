@@ -30,8 +30,8 @@ I can make the app work... <br/>
 
 #
 ### About me
-- 📬 have any work? do reach, [email](mailto:brazkhin.e92@gmail.com) :)
-- 📯 can ask me about anything, i will be glad to help you;
+- 📬 have any work? do reach, [email](mailto:softwarearchitectsmess@proton.me)
+- 📯 can ask me about anything, i will be glad to help you
 #
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
